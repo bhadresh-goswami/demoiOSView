@@ -1,0 +1,16 @@
+PODS:
+  - demoiOSView (0.1.0)
+
+DEPENDENCIES:
+  - demoiOSView (from `../`)
+
+EXTERNAL SOURCES:
+  demoiOSView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  demoiOSView: 6bc2d70818bba091d7489831449d8ca3da347336
+
+PODFILE CHECKSUM: 6a3bb477f9145c02b68cca34dece16eebb57408f
+
+COCOAPODS: 1.5.0

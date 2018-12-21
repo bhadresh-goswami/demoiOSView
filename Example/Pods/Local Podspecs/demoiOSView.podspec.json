@@ -1,0 +1,22 @@
+{
+  "name": "demoiOSView",
+  "version": "0.1.0",
+  "summary": "A short description of demoiOSView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tops-bhadresh/demoiOSView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tops-bhadresh": "tops.bhadresh@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/tops-bhadresh/demoiOSView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "demoiOSView/Classes/**/*"
+}
